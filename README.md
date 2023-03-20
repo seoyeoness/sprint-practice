@@ -19,3 +19,9 @@ technical writer가 쓰는 대표적인 문서 중 하나
 ```shell: back quote 
 $ python main.py
 ```
+
+
+```python
+def hello(name):
+  return f"hello, {name}"
+```
